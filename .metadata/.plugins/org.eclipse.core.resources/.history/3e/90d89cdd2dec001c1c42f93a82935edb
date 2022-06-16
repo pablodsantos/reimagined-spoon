@@ -1,0 +1,17 @@
+package entities;
+
+public class Retangle extends Shappe{
+
+	private Double widht;
+	private Double height;
+	
+	public Retangle() {
+	}
+	
+	
+
+
+	public Double area() {
+		return widht * height;
+	}
+}

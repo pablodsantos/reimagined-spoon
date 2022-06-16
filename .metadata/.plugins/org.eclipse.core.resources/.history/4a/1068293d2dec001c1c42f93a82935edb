@@ -1,0 +1,10 @@
+package entities;
+
+import entities.enums.Color;
+
+public abstract class Shappe {
+	
+	Color color;
+	
+	public Double area();
+}

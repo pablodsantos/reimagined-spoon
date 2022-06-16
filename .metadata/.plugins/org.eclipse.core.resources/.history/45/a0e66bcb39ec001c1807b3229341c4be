@@ -1,0 +1,21 @@
+package model.entities;
+
+import model.entities.enums.Color;
+
+public class Circle extends AbstractShape{
+
+	private Double radius;
+	
+	public Circle(Color color) {
+		super(color);
+	}
+	
+	
+
+	@Override
+	public Double area() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

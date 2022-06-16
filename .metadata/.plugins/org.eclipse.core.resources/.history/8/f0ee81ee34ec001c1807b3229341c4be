@@ -1,0 +1,11 @@
+package model.entities;
+
+import model.entities.enums.Color;
+import models.entities.Shappe;
+
+public class AbstractShappe implements Shappe {
+	
+	private Color color;
+	private Shappe shappe;
+	
+	public Double area();

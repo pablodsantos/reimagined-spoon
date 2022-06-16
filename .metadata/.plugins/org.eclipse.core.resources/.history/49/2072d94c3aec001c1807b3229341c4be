@@ -1,0 +1,12 @@
+package application;
+
+import model.entities.AbstractShape;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		AbstractShape circle = new Abstract
+				
+	}
+}
